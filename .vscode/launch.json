@@ -7,8 +7,8 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open edu.html",
-            "file": "c:\\Users\\ellie\\OneDrive\\Documents\\IDM221\\edu.html"
+            "name": "Open Ellie_finalHTML.html",
+            "file": "c:\\Users\\ellie\\OneDrive\\Documents\\IDM221\\Ellie_finalHTML.html"
         }
     ]
 }
