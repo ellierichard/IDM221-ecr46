@@ -34,7 +34,7 @@ header h2 {
     padding-bottom: 20px;
 }
 nav {
-    margin-bottom: 45px;
+    margin-bottom: 30px;
     margin-top: 25px;
     line-height: 30px;
 }
@@ -65,12 +65,12 @@ nav ul li a:hover {
     line-height: 147.3%;
     text-align: center;
     letter-spacing: 0.03em;
-    text-align: center;
     width: 100%;
+    margin-bottom: 30px;
 }
 .body-text img {
     width: 100%;
-    margin-top: 15px;
+    margin-top: 30px;
     margin-bottom: 22px;
     object-fit: contain;
     height: 253px;
@@ -83,10 +83,11 @@ nav ul li a:hover {
     color:cornflowerblue;
 }
 p {
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 200;
-    text-align: center;
-    text-overflow: inherit;
+    font-family: 'Inconsolata';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 13px;
 }
 .about-me {
     background-color: #A9F5FF;
@@ -97,6 +98,11 @@ p {
     margin-bottom: 0px;
 }
 .about-me p {
+    font-family: 'Inconsolata';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
     text-align: center;
     margin-top: 5px;
     margin-bottom: 10px;
@@ -126,6 +132,11 @@ p {
     margin-bottom: 0px;
 }
 .facts p {
+    font-family: 'Inconsolata';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
     text-align: center;
     margin-top: 5px;
     margin-bottom: 10px;
@@ -155,6 +166,11 @@ p {
     margin-bottom: 0px;
 }
 .c-facts p {
+    font-family: 'Inconsolata';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
     text-align: center;
     margin-top: 5px;
     margin-bottom: 10px;
@@ -189,12 +205,12 @@ p {
     width: 85%;
     margin: 0 auto;    
 }
-.ghead {
-    font-family: 'IM FELL Double Pica';
+.ghead p {
+    font-family: 'Aksara Bali Galang';
     font-style: normal;
     font-weight: 400;
-    font-size: 20px;
-    line-height: 30px;
+    font-size: 18px;
+    line-height: 32px;
     text-align: center;
     margin-top: 15px;
     margin-bottom: 45px;
@@ -216,8 +232,8 @@ p {
     font-family: 'Aksara Bali Galang';
     font-style: normal;
     font-weight: 400;
-    font-size: 12px;
-    line-height: 32px;
+    font-size: 16px;
+    line-height: 15px;
     text-align: left;
     margin-left: 8px;
 }
@@ -233,11 +249,11 @@ p {
     width: 100%;
 }
 .g-item2 p {
-    font-family: 'Jura';
-font-style: normal;
-font-weight: 400;
-font-size: 12px;
-line-height: 14px;
+    font-family: 'Aksara Bali Galang';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 15px;
     text-align: left;
     margin-left: 8px;
 }
@@ -253,11 +269,11 @@ line-height: 14px;
     width: 100%;
 }
 .g-item3 p {
-    font-family: 'Handlee';
-font-style: normal;
-font-weight: 400;
-font-size: 12px;
-line-height: 16px;
+    font-family: 'Aksara Bali Galang';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 15px;
     text-align: left;
     margin-left: 8px;
 }
@@ -273,11 +289,11 @@ line-height: 16px;
     width: 100%;
 }
 .g-item4 p {
-    font-family: 'Scheherazade';
+    font-family: 'Aksara Bali Galang';
     font-style: normal;
     font-weight: 400;
-    font-size: 12px;
-    line-height: 20px;
+    font-size: 16px;
+    line-height: 15px;
     text-align: left;
     margin-left: 8px;
 }
@@ -293,6 +309,11 @@ line-height: 16px;
     width: 100%;
 }
 .g-item5 p {
+    font-family: 'Aksara Bali Galang';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 15px;
     text-align: left;
     margin-left: 8px;
 }
@@ -308,6 +329,11 @@ line-height: 16px;
     width: 100%;
 }
 .g-item6 p {
+    font-family: 'Aksara Bali Galang';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 15px;
     text-align: left;
     margin-left: 8px;
 }
@@ -323,6 +349,11 @@ line-height: 16px;
     width: 100%;
 }
 .g-item7 p {
+    font-family: 'Aksara Bali Galang';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 15px;
     text-align: left;
     margin-left: 8px;
 }
@@ -338,6 +369,11 @@ line-height: 16px;
     width: 100%;
 }
 .g-item8 p {
+    font-family: 'Aksara Bali Galang';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 15px;
     text-align: left;
     margin-left: 8px;
 }
@@ -353,6 +389,11 @@ line-height: 16px;
     width: 100%;
 }
 .g-item9 p {
+    font-family: 'Aksara Bali Galang';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 15px;
     text-align: left;
     margin-left: 8px;
 }
@@ -368,6 +409,11 @@ line-height: 16px;
     width: 100%;
 }
 .g-item10 p {
+    font-family: 'Aksara Bali Galang';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 15px;
     text-align: left;
     margin-left: 8px;
 }
@@ -383,6 +429,11 @@ line-height: 16px;
     width: 100%;
 }
 .g-item11 p {
+    font-family: 'Aksara Bali Galang';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 15px;
     text-align: left;
     margin-left: 8px;
 
@@ -397,7 +448,12 @@ line-height: 16px;
     margin-bottom: 53px;
 }
 .review p {
-    text-align: left;
+    font-family: 'Hanuman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 19px;
+    text-align: left; 
     margin-left: 8px;
     margin-bottom: 12px;
 }
@@ -410,7 +466,12 @@ line-height: 16px;
     margin-bottom: 53px;
 }
 .review2 p {
-    text-align: left;
+    font-family: 'Hanuman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 19px;
+    text-align: left; 
     margin-left: 8px;
     margin-bottom: 12px;
 }
@@ -422,6 +483,11 @@ line-height: 16px;
     margin: 0 auto;
 }
 .projects p {
+    font-family: 'Alata';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 17px;
     text-align: left;
     margin-bottom: 28px;
 }
@@ -429,14 +495,70 @@ line-height: 16px;
     margin-bottom: 50px;
 }
 .projects2 p { 
+    font-family: 'Alata';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
     margin-bottom: 30px;
     margin-top: 25px;
+    margin-left: 15px;
+    margin-right: 15px;
+    text-align:center;
+}
+.projects h4 {
+    font-family: 'Alata';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 17px;
+    margin-bottom: 10px;
 }
 /* edu */
 .edu {
     width: 85%;
     margin: 0 auto;
 }
-.edu h2, .edu p, .edu li {
+.edu h2 {
     text-align: left;
+    margin-bottom: 15px;
+    font-size: 24px;
+}
+.edu p {
+    font-family: 'Ledger';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 17px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+.edu dt {
+    font-family: 'Ledger';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 17px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+.edu dd {
+    font-family: 'Ledger';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 17px;
+    text-align: left;
+    margin-bottom: 20px; 
+}
+.edu li {
+    font-family: 'Ledger';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: left;
+}
+.edu li:last-of-type {
+    margin-bottom: 45px;
 }
