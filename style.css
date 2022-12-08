@@ -75,12 +75,6 @@ nav ul li a:hover {
     object-fit: contain;
     height: 253px;
 }
-.main img {
-    width: 100%;
-    margin-top: 20px;
-    object-fit: fill;
-    height: 400px;
-}
 .body-text a, .body-text a:visited {
     color: black;
     text-decoration: none;
@@ -93,6 +87,93 @@ p {
     font-weight: 200;
     text-align: center;
     text-overflow: inherit;
+}
+.about-me {
+    background-color: #A9F5FF;
+}
+.about-me h1 {
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+.about-me p {
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.about-me img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 25%;
+    height: 5px;
+}
+.about-me:last-of-type {
+    margin: 15px;
+}
+.squigg img {
+    width: 300px;
+    height: 20px;
+}
+.facts {
+    background-color: #69E1F1;
+}
+.facts h1 {
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+.facts p {
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.facts img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 25%;
+    height: 5px;
+}
+.facts:last-of-type {
+    margin: 15px;
+}
+.squigg2 img {
+    width: 300px;
+    height: 20px;
+}
+.c-facts {
+    background-color: #00ADC5;
+}
+.c-facts h1 {
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+.c-facts p {
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.c-facts img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 25%;
+    height: 5px;
+}
+.c-facts:last-of-type {
+    margin: 15px;
+}
+.squigg3 img {
+    width: 300px;
+    height: 20px;
 }
 .mail {
     font-family: 'Akaya Kanadaka';
