@@ -53,6 +53,35 @@ nav ul li a, nav li a:visited {
 nav ul li a:hover {
     color:cornflowerblue;
 }
+.rev-list {
+    margin-bottom: 30px;
+    margin-top: 25px;
+    line-height: 30px;
+}
+.rev-list h2 {
+    font-family: 'Inconsolata';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    text-align: left;
+    margin-left: 10px;
+    margin-bottom: 25px;
+}
+.rev-list ul li a, li a:visited {
+    font-family: 'Akaya Kanadaka';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 36px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: black;
+    text-decoration: none;
+}
+.rev-list ul li a:hover {
+    color:cornflowerblue;
+}
 .body-text {
     margin: 0 auto;
     width: 85%;
@@ -438,44 +467,79 @@ p {
     margin-left: 8px;
 
 }
-.review:last-of-type {
-    margin-bottom: 20px;
+/* book reviews */
+.review1:last-of-type {
+    margin-bottom: 30px;
 }
-.review img {
+.review1 img {
     width: 100%;
-    display: grid;
-    grid-template-columns: repeat(2, 50%);
-    margin-bottom: 53px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
-.review p {
+.review1 p {
     font-family: 'Hanuman';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
-    line-height: 19px;
+    line-height: 30px;
     text-align: left; 
     margin-left: 8px;
     margin-bottom: 12px;
 }
 .review2:last-of-type {
-    margin-bottom: 68px;
+    margin-bottom: 30px;
 }
 .review2 img {
     width: 100%;
-    margin-top: 80px;
-    margin-bottom: 53px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 .review2 p {
     font-family: 'Hanuman';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
-    line-height: 19px;
+    line-height: 30px;
     text-align: left; 
     margin-left: 8px;
     margin-bottom: 12px;
 }
-
+.review3:last-of-type {
+    margin-bottom: 30px;
+}
+.review3 img {
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.review3 p {
+    font-family: 'Hanuman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: left; 
+    margin-left: 8px;
+    margin-bottom: 12px;
+}
+.review4:last-of-type {
+    margin-bottom: 30px;
+}
+.review4 img {
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.review4 p {
+    font-family: 'Hanuman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: left; 
+    margin-left: 8px;
+    margin-bottom: 12px;
+}
 /* projects */
 .projects {
     text-align: left;
