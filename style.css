@@ -477,6 +477,7 @@ p {
     margin-bottom: 50px;
 }
 .review1 p {
+    background-color: #E8E8E8;
     font-family: 'Hanuman';
     font-style: normal;
     font-weight: 400;
@@ -503,6 +504,7 @@ p {
     text-align: left; 
     margin-left: 8px;
     margin-bottom: 12px;
+    background-color: #E8E8E8;
 }
 .review3:last-of-type {
     margin-bottom: 30px;
@@ -521,6 +523,7 @@ p {
     text-align: left; 
     margin-left: 8px;
     margin-bottom: 12px;
+    background-color: #E8E8E8;
 }
 .review4:last-of-type {
     margin-bottom: 30px;
@@ -539,6 +542,7 @@ p {
     text-align: left; 
     margin-left: 8px;
     margin-bottom: 12px;
+    background-color: #E8E8E8;
 }
 /* projects */
 .projects {
